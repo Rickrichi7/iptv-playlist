@@ -1,1 +1,47 @@
-
+#EXTM3U
+#EXTINF:-1,&Xplor HD
+http://66.102.126.10:8000/play/a028/index.m3u8
+#EXTINF:-1,&pictures HD
+http://66.102.126.10:8000/play/a01t/index.m3u8
+#EXTINF:-1,&tv HD - Rs 19.00
+http://66.102.126.10:8000/play/a01u/index.m3u8
+#EXTINF:-1,24 News HD
+http://66.102.126.10:8000/play/a04v/index.m3u8
+#EXTINF:-1,24B HD
+http://66.102.126.10:8000/play/a044/index.m3u8
+#EXTINF:-1,92 Entertainment
+http://66.102.126.10:8000/play/a06m/index.m3u8
+#EXTINF:-1,92 News HD
+http://66.102.126.10:8000/play/a04y/index.m3u8
+#EXTINF:-1,A SportsHD
+http://66.102.126.10:8000/play/a032/index.m3u8
+#EXTINF:-1,A1 TV
+http://66.102.126.10:8000/play/a04q/index.m3u8
+#EXTINF:-1,AAJ ENTERTANMENT
+http://66.102.126.10:8000/play/a05b/index.m3u8
+#EXTINF:-1,AAJ NEWS
+http://66.102.126.10:8000/play/a05a/index.m3u8
+#EXTINF:-1,AAN TV - HD
+http://66.102.126.10:8000/play/a05j/index.m3u8
+#EXTINF:-1,APlus Pakistan
+http://66.102.126.10:8000/play/a01b/index.m3u8
+#EXTINF:-1,ARYDigitalAsia HD
+http://66.102.126.10:8000/play/a030/index.m3u8
+#EXTINF:-1,ARYMusik
+http://66.102.126.10:8000/play/a036/index.m3u8
+#EXTINF:-1,ARYNewsAsia
+http://66.102.126.10:8000/play/a02z/index.m3u8
+#EXTINF:-1,ARYQTV
+http://66.102.126.10:8000/play/a019/index.m3u8
+#EXTINF:-1,ARYZindagi
+http://66.102.126.10:8000/play/a031/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://66.102.126.10:8000/play/a001/index.m3u8
+#EXTINF:-1,B4U MUSIC
+http://66.102.126.10:8000/play/a01e/index.m3u8
+#EXTINF:-1,B4U Movies - Free
+http://66.102.126.10:8000/play/a01n/index.m3u8
+#EXTINF:-1,BBC News
+http://66.102.126.10:8000/play/a00t/index.m3u8
+#EXTINF:-1,BOL News Urdu
+http
